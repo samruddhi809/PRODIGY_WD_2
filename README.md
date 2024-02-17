@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
-Task 01: Tic-Tac-Toe Game
+# PRODIGY_WD_02
+Task 02: Tic-Tac-Toe Game
